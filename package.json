@@ -1,0 +1,9 @@
+{
+    "name": "vue-timeout-button",
+    "version": "1.0.0",
+    "description": "TimeoutButton component for Vue",
+    "main": "index.js",
+    "repository": "PascalHesselink/vue-timeout-button",
+    "author": "Pascal Hesselink <mail@pascalhesselink.nl>",
+    "license": "MIT"
+}
