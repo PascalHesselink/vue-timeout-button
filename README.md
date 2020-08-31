@@ -47,7 +47,6 @@ Example style of the button
     background-color : #e74c3c;
     color            : #fff;
     font-weight      : 700;
-    position         : relative;
     width            : 200px;
     text-align       : center;
 }

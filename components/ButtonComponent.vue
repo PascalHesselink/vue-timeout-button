@@ -1,6 +1,7 @@
 <template>
     <button @click="submitButton"
             :class="{ 'loading': buttonTimeout }"
+            style="position:relative;"
     >
         <span style="z-index:2;position:relative;"
               v-html="buttonText"
